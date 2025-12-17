@@ -1,0 +1,27 @@
+{
+  "name": "@is-(unknown)/is-symbol",
+  "version": "1.0.0",
+  "description": "Check if a value is a symbol primitive",
+  "keywords": [
+    "symbol"
+  ],
+  "homepage": "https://github.com/is-unknown/is-symbol#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-symbol/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-symbol.git"
+  },
+  "license": "Unlicense",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@extremejs/utils": "^1.0.0-beta.22",
+    "has-symbols": "^1.1.0"
+  }
+}
